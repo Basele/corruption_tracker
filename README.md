@@ -3,9 +3,8 @@
 Corruption tracker lets you make cases of corruption and professionally unfit of civil servant public
 and as result track the level of it in public institutions
 
-![](http://i.imgur.com/zAMVod3.png)
 
-Mobile app that works with API https://github.com/konchunas/mobilepdrk
+I forked this project , and is working on a similar project, so just learning and improving it
 
 Demo not available for now
 
